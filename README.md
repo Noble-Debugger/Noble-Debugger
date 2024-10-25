@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noble-Debugger
+- 👋 Hi, I’m @Noble.Debugger
 - 👀 I’m interested in almost everything concerning the IOTs and IT.
 - 🌱 I’m currently learning about Operation Systems and getting my feet, actually only a toe, wet with Python.
 - 💞️ I’m looking to collaborate on 
